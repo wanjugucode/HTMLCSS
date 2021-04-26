@@ -1,0 +1,63 @@
+
+body{
+    text-align: center;
+    text-shadow: rgba(red, green, blue, alpha);
+}
+h1{color: blueviolet
+    
+}
+h2{
+color: blueviolet ;
+}
+
+p{
+    color: grey;
+    text-align: center;
+
+    
+}
+
+#About{
+    background-color:blueviolet;
+    text-align: center;
+    color:black;
+    text-size-adjust: 100;
+    
+}
+.abouts{
+    background-color: whitesmoke;
+
+}
+#Abouts{
+    text-align: center;
+}
+.column{
+    float: left;
+    width: 33.33%;
+}
+.row::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.line1{
+    height: 2px;;
+    color: purple;
+    border-width: 0px;
+    background-color: purple;
+}
+.line2{
+    height: 2px;;
+    color: purple;
+    border-width: 0px;
+    background-color: purple;
+}
+
+
+.footer{
+    background-color: wheat;
+    color: blanchedalmond;
+    width: 2;
+}
+
+
